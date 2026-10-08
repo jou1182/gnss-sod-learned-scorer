@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Learned baseline-elimination scorer for second-order design of GNSS control networks (simulation code and frozen protocol)"
+authors:
+  - family-names: "Seleim"
+    given-names: "Yousef Afifi Ahmed"
+version: "1.0.0"
+date-released: "2026-10-09"
+license: MIT

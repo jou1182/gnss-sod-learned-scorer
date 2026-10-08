@@ -1,0 +1,5 @@
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+torch==2.14.1+cpu
+# torch is only needed for the (negative-result) neural attempts in policy.py/train.py/train_distill.py
